@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\obstacle-assault\\obstacleassault\\source\\obstacleassault\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\obstacle-assault\\obstacleassault\\intermediate\\build\\win64\\obstacleassaulteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\obstacle-assault\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "e:\\unreal\\obstacle-assault\\obstacleassault\\source\\obstacleassault\\movingplatform.h",
+            "e:\\unreal\\obstacle-assault\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
