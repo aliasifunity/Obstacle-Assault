@@ -15,6 +15,10 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
+
+	StartLocation = GetActorLocation();
+
+ 
 	
 }
 
@@ -22,6 +26,22 @@ void AMovingPlatform::BeginPlay()
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	FVector CurrentLocation = GetActorLocation();
+
+	CurrentLocation = CurrentLocation+(PlatformVelocity*DeltaTime);
+
+	SetActorLocation(CurrentLocation);
+
+	float DistanceMoved_1 = FVector3d::Dist(StartLocation, CurrentLocation);
+
+	if(DistanceMoved_1>MovedDistance) 
+	{		
+		FVector MoveDirection = PlatformVelocity.GetSafeNormal();		
+		StartLocation = StartLocation + MoveDirection * MovedDistance;
+		SetActorLocation(StartLocation);
+		PlatformVelocity = -PlatformVelocity;
+	}
 
 }
 
