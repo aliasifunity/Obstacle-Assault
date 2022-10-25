@@ -1503,3 +1503,124 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.24-21.23.49:157][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.24-21.23.49:163][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
 [2022.10.24-21.23.49:212][447]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.10.24-21.31.11:222][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.24-21.31.11:225][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/Obstacle-Assault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.24-21.31.11:331][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto5
+[2022.10.24-21.31.11:331][848]LogSavePackage: Moving 'E:/Unreal/Obstacle-Assault/ObstacleAssault/Saved/Main_Auto5ADCD47E5433BF2C4F9A0E19E8E41823A.tmp' to 'E:/Unreal/Obstacle-Assault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto5.umap'
+[2022.10.24-21.31.11:392][848]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.248
+[2022.10.24-21.31.11:392][848]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.248
+[2022.10.24-21.58.27:316][734]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.508 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.24-22.58.27:539][479]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.577 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.24-23.58.27:232][224]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.539 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.25-00.58.27:498][975]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.551 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.25-01.02.02:862][617]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.10.25-01.02.02:862][617]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.10.25-01.02.10:147][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.10.25-01.02.13:706][910]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.25-01.02.24:785][521]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.10.25-01.17.21:759][562]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.10.25-01.17.28:911][905]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.10.25-01.17.28:911][905]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.10.25-01.58.27:396][606]LogDerivedDataCache: C:/Users/Ali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.690 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.25-02.04.46:914][790]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.10.25-02.05.33:008][991]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.10.25-02.05.33:008][991]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.10.25-02.05.57:081][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform
+[2022.10.25-02.05.57:082][131]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2022.10.25-02.05.57:774][131]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2022.10.25-02.05.57:851][131]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.10.25-02.08.05:496][771]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.10.25-02.08.10:862][975]LogLiveCoding: Display:    Creating library E:\Unreal\Obstacle-Assault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.lib and object E:\Unreal\Obstacle-Assault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.exp
+[2022.10.25-02.08.11:036][976]LogClass: /Script/ObstacleAssault Reload.
+[2022.10.25-02.08.11:037][976]LogClass: MovingPlatform Reload.
+[2022.10.25-02.08.11:037][976]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2022.10.25-02.08.11:071][976]Re-instancing MovingPlatform after reload.
+[2022.10.25-02.08.11:443][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.10.25-02.08.12:065][977]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2022.10.25-02.08.12:065][977]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.10.25-02.08.31:027][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_RotatingPlatform" FILE="E:/Unreal/Obstacle-Assault/ObstacleAssault/Content/BP_RotatingPlatform.uasset" SILENT=true
+[2022.10.25-02.08.31:031][ 18]LogSavePackage: Moving output files for package: /Game/BP_RotatingPlatform
+[2022.10.25-02.08.31:031][ 18]LogSavePackage: Moving 'E:/Unreal/Obstacle-Assault/ObstacleAssault/Saved/BP_RotatingPlatform9369515F4D54A1E8ACFBAF8AAB200194.tmp' to 'E:/Unreal/Obstacle-Assault/ObstacleAssault/Content/BP_RotatingPlatform.uasset'
+[2022.10.25-02.08.31:058][ 18]AssetCheck: New page: Asset Save: BP_RotatingPlatform
+[2022.10.25-02.08.31:058][ 18]LogContentValidation: Display: Validating Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform
+[2022.10.25-02.08.49:022][824]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.49:022][824]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.49:024][824]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_0
+[2022.10.25-02.08.49:027][824]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_0
+[2022.10.25-02.08.49:767][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.49:767][862]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.49:769][862]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_1
+[2022.10.25-02.08.49:770][862]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_1
+[2022.10.25-02.08.54:718][122]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.54:718][122]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.54:719][122]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_2
+[2022.10.25-02.08.54:721][122]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_2
+[2022.10.25-02.08.55:122][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.55:122][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_RotatingPlatform.BP_RotatingPlatform_C
+[2022.10.25-02.08.55:124][141]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_3
+[2022.10.25-02.08.55:126][141]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_RotatingPlatform.BP_RotatingPlatform as actor: BP_RotatingPlatform_C /Game/Main.Main:PersistentLevel.BP_RotatingPlatform_C_3
+[2022.10.25-02.08.56:871][233]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.25-02.08.56:884][233]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.25-02.08.56:884][233]LogPlayLevel: [PlayLevel] Compiling BP_RotatingPlatform before play...
+[2022.10.25-02.08.57:147][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.10.25-02.08.57:148][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 264 ms (1 blueprints)
+[2022.10.25-02.08.57:148][233]PIE: New page: PIE session: Main (Oct. 24, 2022, 2:08:57 p.m.)
+[2022.10.25-02.08.57:150][233]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2022.10.25-02.08.57:194][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044318s)
+[2022.10.25-02.08.57:194][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.044508s)
+[2022.10.25-02.08.57:194][233]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.25-02.08.57:194][233]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2022.10.25-02.08.57:195][233]LogAIModule: Creating AISystem for world Main
+[2022.10.25-02.08.57:195][233]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2022.10.25-02.08.57:316][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.10.25-02.08.57:321][233]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.25-02.08.57:321][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.25-02.08.57:321][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.25-02.08.57:321][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.25-02.08.57:321][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.25-02.08.57:321][233]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.10.25-02.08.57:321][233]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.25-02.08.57:321][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.10.25-02.08.57:321][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.25-02.08.57:322][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.25-02.08.57:322][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.25-02.08.57:322][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.25-02.08.57:326][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.25-02.08.57:380][233]LogAudioMixer: Display: Using Audio Hardware Device VA24DQLB -2 (Intel(R) Display Audio)
+[2022.10.25-02.08.57:382][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.25-02.08.57:382][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.25-02.08.57:382][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.25-02.08.57:382][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.10.25-02.08.57:382][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.10.25-02.08.57:384][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.10.25-02.08.57:384][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.10.25-02.08.57:384][233]LogInit: FAudioDevice initialized.
+[2022.10.25-02.08.57:385][233]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2022.10.25-02.08.57:409][233]LogLoad: Game class is 'BP_ObstacleAssaultGameMode_C'
+[2022.10.25-02.08.57:426][233]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.10.24-20.08.57
+[2022.10.25-02.09.00:351][233]LogWorld: Bringing up level for play took: 2.942252
+[2022.10.25-02.09.00:354][233]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.10.25-02.09.00:357][233]LogTemp: Display: Out put: This is my string
+[2022.10.25-02.09.00:357][233]LogTemp: Display: Out put: This is my string
+[2022.10.25-02.09.00:357][233]LogTemp: Display: Out put: This is my string
+[2022.10.25-02.09.00:357][233]LogTemp: Display: Out put: This is my string
+[2022.10.25-02.09.00:357][233]LogTemp: Display: Out put: This is my string
+[2022.10.25-02.09.00:357][233]PIE: Server logged in
+[2022.10.25-02.09.00:359][233]PIE: Play in editor total start time 3.479 seconds.
+[2022.10.25-02.09.21:150][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.25-02.09.21:150][431]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2022.10.25-02.09.21:150][431]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.25-02.09.21:152][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-02.09.21:175][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.25-02.09.21:184][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-02.09.21:268][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.25-02.09.21:270][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.25-02.09.21:272][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.25-02.09.21:283][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.10.25-02.09.21:347][432]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.10.25-02.09.46:851][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.10.25-02.09.46:855][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Unreal/Obstacle-Assault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.25-02.09.46:990][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto6
+[2022.10.25-02.09.46:990][635]LogSavePackage: Moving 'E:/Unreal/Obstacle-Assault/ObstacleAssault/Saved/Main_Auto63699AEB8462A7EB19100018D5BDCAC15.tmp' to 'E:/Unreal/Obstacle-Assault/ObstacleAssault/Saved/Autosaves/Game/Main_Auto6.umap'
+[2022.10.25-02.09.47:001][635]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.277
+[2022.10.25-02.09.47:001][635]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.277
